@@ -1,0 +1,6 @@
+the three stages 
+      
+       1. modifing
+       2. staging
+       3. commit
+      
