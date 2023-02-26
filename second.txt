@@ -1,4 +1,4 @@
-the three stages 
+the three stages of git
       
        1. modifing
        2. staging
