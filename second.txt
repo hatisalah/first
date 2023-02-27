@@ -1,4 +1,4 @@
-the three stages of git
+the three stages of git in version control
       
        1. modifing
        2. staging
